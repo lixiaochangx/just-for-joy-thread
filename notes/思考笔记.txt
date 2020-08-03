@@ -1,0 +1,24 @@
+Java中怎样唤醒一个阻塞的线程？
+什么是不可变对象？它对写并发应用有什么帮助？
+在线程中，怎么处理不可捕捉异常？
+为什么使用Executor框架比使用应用创建和管理线程好？
+如何在windows和Linux上查找哪个线程使用的CPU时间最长？
+
+什么是原子操作？Java中的原子操作是什么？
+Java中的volatile关键字是什么作用？怎样使用它？在Java中他跟synchronized方法有什么不同？
+在Java中绿色线程和本地线程区别？
+什么是多线程中的上下文切换？
+什么是线程组？为什么在Java中不推荐使用？
+Java中用到的线程调度算法是什么？在Java中什么是线程调度？
+Java中CycliBarriar和CountdownLatch有什么区别？
+如何使用thread dump？如何分析Thread dump？
+
+
+synchronized不能手动开锁 解锁
+ Java JDK1.5	并发包	线程池Executor	Condition
+ 实际开发中，是使用synchronized还是lock？
+ synchronized
+ 很复杂多线程程序就使用lock。
+
+企业实际中，怎么停止线程？线程池
+
